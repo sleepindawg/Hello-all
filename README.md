@@ -1,2 +1,3 @@
 # Hello-all
 Just learning how to do this.
+I'm an older man wanting to learn how to create a program of app because an app that I have has quit working and seems to no longer be supported by it's creator.
